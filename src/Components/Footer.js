@@ -14,7 +14,7 @@ export default function Footer() {
                 .8,
                 {
                     opacity: 1,
-                    x: 840,
+                    x: 820,
                     ease: gsap.Power3.easeInOut,
                 }
             )
