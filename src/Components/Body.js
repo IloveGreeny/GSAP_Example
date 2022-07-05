@@ -1,5 +1,5 @@
 import * as gsap from "gsap";
-import logo from "../Logos/logo.svg"
+import logo from "../Logos/logo.svg";
 import {useEffect, useRef} from "react";
 
 export default function Body() {
