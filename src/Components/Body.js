@@ -1,6 +1,7 @@
 import * as gsap from "gsap";
 import logo from "../Logos/logo.svg";
 import {useEffect, useRef} from "react";
+import "./Body.css"
 
 export default function Body() {
     const imgRef = useRef(null);
