@@ -15,7 +15,7 @@ export default function Body() {
         <div className="App">
             <div className="helen">
             </div>
-            <img src={logo} alt="logo" ref={imgRef}/>
+            <img src={logo} alt="logo" ref={imgRef} className="image1"/>
         </div>
     )
 }
