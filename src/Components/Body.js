@@ -8,7 +8,7 @@ export default function Body() {
     useEffect(() => {
         return () => {
             const el = imgRef.current;
-            gsap.TweenMax.to(el,{rotation: 0},{rotation: 180, duration: 3})
+            gsap.TweenMax.to(el,{rotation: 0},{rotation: 180, duration: 5})
         };
     }, []);
 
